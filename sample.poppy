@@ -1,0 +1,8 @@
+
+# THIS IS AN EXAMPLE POPPY SCRIPT
+# Put this sample script in your USB flash drive.
+# AND LET THE MAGIC HAPPEN!!!
+
+echo "echo hi";
+echo "hello";
+echo -ne "\007";
